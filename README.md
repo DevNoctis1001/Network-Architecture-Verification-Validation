@@ -146,10 +146,3 @@ Idaho National Laboratory is a cutting edge research facility which is constantl
 * [Raw Experiment Open Source Software](https://github.com/IdahoLabResearch)
 * [Unsupported Open Source Software](https://github.com/IdahoLabCuttingBoard)
 
-## Contact ##
-
-Contact information of maintainer(s):
-
-[Seth Grover](mailto:seth.grover@inl.gov?subject=NAVV)
-
-[Donovan Nichols](mailto:donovan.nichols@inl.gov?subject=NAVV)
